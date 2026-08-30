@@ -27,7 +27,7 @@ The repository includes the final academic internship report in PDF format, the 
 - [🏆 Certification & Credentials](#-certification--credentials)
 - [📁 Repository Contents](#-repository-contents)
 - [📄 Report Structure](#-report-structure)
-- [👤 Individual Contribution & Team](#-individual-contribution--team)
+- [👤 Individual Contribution](#-individual-contribution)
 - [💡 Learning Outcomes](#-learning-outcomes)
 - [🙏 Acknowledgement](#-acknowledgement)
 - [🔗 Reference Links](#-reference-links)
@@ -49,7 +49,7 @@ The repository includes the final academic internship report in PDF format, the 
 | **Internship** | Cisco-AICTE Virtual Internship Program 2026 |
 | **Domain** | Computer Networking & Network Reliability Engineering |
 | **Project** | SmartBranch 360 |
-| **Role** | Project Lead / Individual Project Developer |
+| **Role** | Project Lead / Individual Developer |
 | **Institutional Email** | `vaibhav.trivedi.cs28@iilm.edu` |
 
 ---
@@ -338,19 +338,10 @@ All coursework and credential requirements were verified on the **Cisco Networki
 ## 📁 Repository Contents
 
 ```text
-college_intership_auditttt/
+2024-28_Vaibhav_Raj_Trivedi_2410030723_5th_Semester_3CSE15/
 ├── README.md                                                   # Complete GitHub internship repository documentation
-├── SmartBranch360_Internship_Report_Vaibhav_Raj_Trivedi.pdf    # Final concise 16-page academic internship report (PDF)
-├── SmartBranch360_Internship_Presentation_Vaibhav_Raj_Trivedi.pdf # Final 16-slide academic viva presentation (PDF)
-├── Vaibhav_Raj_Trivedi_Internship_Report.docx                 # Full university format internship report (DOCX)
-├── Vaibhav_Raj_Trivedi_Internship_Report.pdf                  # Full university format internship report (PDF)
-├── Vaibhav Raj Trivedi _REPORT_CISCO (NETWORKING).docx        # Original technical project documentation
-├── Internship Report Format updated 26-27.docx                 # IILM University official report guidelines
-├── intershipss i was inrolled in with thier time perioddd.png  # Official NetAcad course timeline proof
-└── certificates/                                               # Official Cisco NetAcad course certificates
-    ├── Getting_Started_with_Cisco_Packet_Tracer_certificate_vaibhav-trivedi-cs28-iilm-edu_31b1dd72-5542-4c2c-b203-4fdd8eed62cb.pdf
-    ├── Exploring_Networking_with_Cisco_Packet_Tracer_certificate_vaibhav-trivedi-cs28-iilm-edu_94b24045-9aa3-42bd-8d9e-7ef003ffc23a.pdf
-    └── network essentials.pdf
+├── Internship_Report_Vaibhav_Raj_Trivedi.pdf                   # Final concise 16-page academic internship report (PDF)
+└── Internship_Presentation_Vaibhav_Raj_Trivedi_SmartBranch360_.pdf # Final 16-slide academic viva presentation (PDF)
 ```
 
 ---
@@ -368,28 +359,45 @@ The final academic internship report is organized into the following major chapt
 7. **Python Network Assurance Checker:** Programmatic assurance engine architecture, audit rules, and 25/25 baseline validation.
 8. **Fault Scenarios & Structured Troubleshooting:** Detailed analysis of Faults 1 to 5 with symptoms, root causes, and CLI fixes.
 9. **Testing, Experimental Verification & Results:** End-to-end system testing matrix covering all functional areas.
-10. **Individual Contribution & Team Collaboration:** Leadership responsibilities and collaborative acknowledgement.
+10. **Individual Contribution:** Full individual development ownership across the complete engineering lifecycle.
 11. **Learning Outcomes & Conclusion:** Progressive technical competencies and project conclusion.
 12. **Bibliography / References:** Formal references in standard IEEE citation style.
 13. **Annexures (Official Course Certificates):** High-resolution copies of all three Cisco Networking Academy certificates.
 
 ---
 
-## 👤 Individual Contribution & Team
+## 👤 Individual Contribution
 
-### Project Lead / Individual Developer
-- **Vaibhav Raj Trivedi — Project Lead**  
-  *Roll Number:* **2410030723** | *Section:* **3CSE15** (5th Semester)  
-  *Department of Computer Science and Engineering, IILM University, Greater Noida, U.P.*  
-  *Core Responsibilities:* End-to-end responsibility for collapsed-core architecture design, Cisco IOS configuration of Router R1 and Catalyst switches SW1/SW2, IEEE 802.1Q trunking, Router-on-a-Stick subinterfaces, Cisco IOS DHCP server pools, internal HTTP/DNS server deployment, NAT/PAT overload, extended ACL security policies (`GUEST_ISOLATION`), SSH version 2 hardening, five-layer fault simulation and troubleshooting, `python_checker.py` software development, and technical report/presentation compilation.
+**Vaibhav Raj Trivedi — Project Lead / Individual Developer**
 
-### Collaborative Peer Acknowledgement
-- **Harsh Singh — Team Member**  
-  *Department of Computer Science and Engineering, IILM University*  
-  *Contribution:* Assisted in the execution of endpoint connectivity test matrices and verification of intra-VLAN employee workstation communication.
-- **Parveen — Team Member**  
-  *Department of Computer Science and Engineering, IILM University*  
-  *Contribution:* Assisted in laboratory documentation review and verification of wireless access point guest onboarding test cases.
+- **Roll Number:** **2410030723**  
+- **Section:** **3CSE15**  
+- **Semester:** 5th Semester  
+- **Programme:** B.Tech Computer Science and Engineering  
+- **Institute:** IILM University, Greater Noida, U.P.  
+- **Email:** `vaibhav.trivedi.cs28@iilm.edu`
+
+I independently completed the **SmartBranch 360** project from initial network planning through final implementation, testing, fault troubleshooting, Python-based assurance, documentation, and presentation preparation.
+
+The project was developed independently by me, including:
+
+- Network topology and architecture design
+- VLAN and subnet planning
+- Cisco IOS configuration
+- Router-on-a-Stick implementation
+- DHCP, DNS and HTTP services
+- NAT/PAT configuration
+- ACL-based guest isolation
+- SSH management
+- Network testing
+- Five fault scenarios and troubleshooting
+- Python assurance checker
+- Technical documentation
+- Final report
+- Presentation
+- Repository documentation
+
+No other student contributed to the development or implementation of this project.
 
 ---
 
@@ -401,7 +409,7 @@ The final academic internship report is organized into the following major chapt
 - **Network Security & Hardening:** Authored source-proximate named extended ACLs (`GUEST_ISOLATION`) and hardened management planes using SSH v2 (1024-bit RSA).
 - **Disciplined Fault Troubleshooting:** Developed a repeatable, layer-by-layer diagnostic methodology spanning Layers 2 through 7 to minimize MTTR.
 - **NetDevOps & Automated Assurance:** Gained practical experience in software-defined network assurance using Python and YAML models to validate live network state.
-- **Project Leadership & Documentation:** Led technical implementation, verified multi-host test matrices, and compiled IEEE-standard engineering reports.
+- **Project Leadership & Documentation:** Independently led technical implementation, verified multi-host test matrices, and compiled IEEE-standard engineering reports.
 
 ---
 
@@ -409,7 +417,7 @@ The final academic internship report is organized into the following major chapt
 
 I express my deepest gratitude to **Mr. Abhinav Raghav**, Academy Instructor at the **Cisco Networking Academy, IILM University**, for his invaluable guidance, technical mentorship, and support throughout the Cisco-AICTE Virtual Internship Program 2026.
 
-I also extend my sincere appreciation to the **School of Computer Science and Engineering, IILM University, Greater Noida**, for providing advanced laboratory facilities; to the **All India Council for Technical Education (AICTE)** and **Cisco Systems** for organizing this industry-aligned internship; and to my peers **Harsh Singh** and **Parveen** for their collaborative support during laboratory testing.
+I also extend my sincere appreciation to the **School of Computer Science and Engineering, IILM University, Greater Noida**, for providing advanced laboratory facilities, and to the **All India Council for Technical Education (AICTE)** and **Cisco Systems** for organizing this industry-aligned internship.
 
 ---
 
